@@ -38,4 +38,5 @@ $ clonar git (https://github.com/200ximena/TALLER_2_NODE.git)
 Uno de los resultados due la impresion en formato JSON de los cursos que creamos, pusimos la ruta junto con el puerto y nos sale como resultado en forma de vector:
 ![image](https://github.com/200ximena/TALLER_2_NODE/assets/128264476/9734c41a-40da-496e-8738-c320e0f5f22d)
 
-![image](https://github.com/200ximena/TALLER_2_NODE/assets/128264476/57c90418-59e3-4d1b-a35a-7fdeba9dceb5)
+![image](https://github.com/200ximena/TALLER_2_NODE/assets/128264476/001d98d2-b743-4a48-a339-555107c567dc)
+
