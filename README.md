@@ -23,7 +23,7 @@ El ejercicio que realize fue para implementar y saber crear diferentes rutas que
 ¿que es el routing?
 Esta es la manera de crear las rutas básicas que ya viene integrado en Express.
 Esto fue lo que implemente como ejemplo en este proyecto, cree varios archivos y uno de ellos se llama app.js que es nuestra aplicacion ejecutable en este entorno de node.js, luego cree un archivo llamado cursos en la carpeta datos, este archivo es el que usaremos para realizar el ejercicio practico.
-En nuestra app.js, emepzamos implementado el framework y empece a crear las rutas para la visualizacion del contenido del archivo.
+En nuestra app.js, empezamos implementado el framework y empece a crear las rutas para la visualizacion del contenido del archivo.
 y finalmente, cree una carpeta mas llamada routers que contiene dos archivos para hacer lo mismo anteriormente.
 ***
 ## Mapa-Conceptual
@@ -35,7 +35,7 @@ $ clonar git (https://github.com/200ximena/TALLER_2_NODE.git)
 ```
 ## Resultados
 ***
-Uno de los resultados due la impresion en formato JSON de los cursos que creamols, pusimos la ruta junto con el puerto y nos sale como resultado en forma de vector los resulatados:
+Uno de los resultados due la impresion en formato JSON de los cursos que creamos, pusimos la ruta junto con el puerto y nos sale como resultado en forma de vector:
 ![image](https://github.com/200ximena/TALLER_2_NODE/assets/128264476/9734c41a-40da-496e-8738-c320e0f5f22d)
 
 ![image](https://github.com/200ximena/TALLER_2_NODE/assets/128264476/57c90418-59e3-4d1b-a35a-7fdeba9dceb5)
