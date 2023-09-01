@@ -36,6 +36,7 @@ $ clonar git (https://github.com/200ximena/TALLER_2_NODE.git)
 ## Resultados
 ***
 Aqui podemos ver algunas de las rutas creadas:
+
 ![image](https://github.com/200ximena/TALLER_2_NODE/assets/128264476/934c3e6b-85dc-43e5-b4a6-19f04dc620e1)
 
 ***
